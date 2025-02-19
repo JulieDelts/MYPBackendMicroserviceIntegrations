@@ -8,7 +8,8 @@
     <Authors>Yulie_Delts</Authors>
     <Company />
     <RepositoryUrl>https://github.com/JulieDelts/MYPBackendMicroserviceIntegrations</RepositoryUrl>
-	<Version>1.0.1</Version>
+	<Version>1.1.0</Version>
+	<Description>Shared models intended for use in MYPBackendMicroservice services</Description>
   </PropertyGroup>
 
   <ItemGroup>
