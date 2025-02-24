@@ -3,7 +3,7 @@ namespace MYPBackendMicroserviceIntegrations.Messages
 {
     public class CustomerWithAccountMessage
     {
-        CustomerMessage Customer { get; set; }
-        AccountMessage Account { get; set; }
+        public CustomerMessage Customer { get; set; }
+        public AccountMessage Account { get; set; }
     }
 }
